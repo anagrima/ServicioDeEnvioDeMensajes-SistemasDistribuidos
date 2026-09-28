@@ -1,3 +1,9 @@
+# ServicioDeEnvioDeMensajes-SistemasDistribuidos
+
+# Autoras
+Ana Grima Vázquez de Prada y Alicia Mei García Morín
+
+
 # Compilación y despliegue de la aplicación
 
 ## 1. Compilación
